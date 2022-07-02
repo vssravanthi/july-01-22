@@ -1,0 +1,9 @@
+n=int(input("enter a number"))
+m=n**0.5
+if(m//1)==m:
+    print("perfect square")
+else:
+    print("Not perfect square")
+output:
+enter a number 25
+perfect square
